@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-bfo2uy.saturadar88win.cfd/sitemap.xml
